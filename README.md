@@ -1,36 +1,13 @@
-# SESUG2025_PROCSQLCaseStudy
-SESUG 2025 PROC SQL Case Study
+# SESUG 2025
 
-SESUG 2025 VFL Instructions
+Hello all, welcome to SESUG 2025! Within this repository you will find the presentation materials and programs needed for the PROC SQL Case Study HOW. In the data folder, I have included partial data sets, as the full data sets were too large to upload to github.
 
-1.	Create two folders. SESUG_choc_enterprise will contain data, SESUG_choc_output will remain empty until data is written to it. 
+# PROC SQL Case Study 
+Tuesday, 9/23 
+12:30PM - 2:00PM
 
-In VFL, navigate to the Explorer> click the New icon> select Folder.
+Ready to sharpen your PROC SQL skills? This session guides you through a series of questions that gradually increase in complexity, each designed to highlight new techniques and problem-solving strategies. Along the way, you’ll learn about statement order and useful options, manipulate data with CASE expressions, and discover the power of dictionary tables. We’ll also cover inner joins, noncorrelated subqueries, data-driven macro variables with the INTO clause, summary functions, boolean expressions, and SET operators. Whether you’re new to PROC SQL or looking to expand your toolkit, this session provides practical examples you can apply immediately in your own work.
 
-Create two new folders named SESUG_choc_enterprise and SESUG_choc_output.
+# About Me
 
-In the Explorer expand Files> Home> Courses> Academic.
-
-Hold down Ctrl and click on these tables: 
-  choc_enterprise_customer.sas7bdat
-  choc_enterprise_item.sas7bdat
-  choc_enterprise_orders.sas7bdat
-  chocolate_enterprise_reporting.sas7bdat
-  
-Right click> Copy to> select the SESUG_choc_enterprise folder> OK
-
- 
-2.	Download the starter program for following along and the solution program from GitHub. 
-
-Go to GitHub:
-CarleighJoCrabtree/SESUG2025_PROCSQLCaseStudy: SESUG 2025 PROC SQL Case Study
-
-Download StarterProgram.sas and Solution.sas
- 
-In VFL, click on Home in the Explorer> click Upload files> Add
-
-Upload StarterProgram.sas and Solution.sas
-
-Open StarterProgram.sas. Uncomment and modify the two libname statements with updated paths. 
-
-Run the libname statements.
+Hi, I'm Carleigh Jo! I'm a Technical Training Consultant at SAS. I began my career delivering SAS courses to customers, and I've loved being part of their learning journeys. That experience sparked my passion for projects, research, and creativity, which led me to transition to Content Development. In this role, I create eLearning and instructor-led training materials for SAS courses. 
