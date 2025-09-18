@@ -1,5 +1,5 @@
-/* libname sqw "path to choc_enterprise"; */
-/* libname out "path to choc_output"; */
+/* libname sqw "path to SESUG_choc_enterprise"; */
+/* libname out "path to SESUG_choc_output"; */
 
 /*******************************/
 /* Examine PROC SQL Statements */
