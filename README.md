@@ -21,3 +21,7 @@ Ready to sharpen your PROC SQL skills? This session guides you through a series 
 # About Me
 
 Hi, I'm Carleigh Jo! I'm a Technical Training Consultant at SAS. I began my career delivering SAS courses to customers, and I've loved being part of their learning journeys. That experience sparked my passion for projects, research, and creativity, which led me to transition to Content Development. In this role, I create eLearning and instructor-led training materials for SAS courses. 
+
+I’m especially passionate about making data and the SAS language accessible and actionable- this focus drives my work every day. My expertise lies in programming in SAS 9 and SAS Viya.
+
+Outside the office, you'll usually find me baking, taking art lessons, exploring new restaurants, or traveling. I look forward to meeting you all!
